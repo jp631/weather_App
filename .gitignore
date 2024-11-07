@@ -1,0 +1,57 @@
+ 
+# Node modules
+node_modules/
+
+# Logs
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Operating system files
+.DS_Store
+Thumbs.db
+
+# Environment variables
+.env
+.env.local
+.env.*.local
+
+# Build output
+dist/
+build/
+
+# Temporary files
+tmp/
+temp/
+
+# Coverage reports
+coverage/
+
+# IDE/editor specific files
+.vscode/
+.idea/
+
+# Optional npm cache
+.npm/
+
+# Yarn Integrity File
+.yarn-integrity
+
+# Next.js build output
+.next
+
+# Sapper export
+__sapper__/
+
+# SvelteKit build output
+.svelte-kit/
+
+# TypeScript compiled files
+*.tsbuildinfo
+
+# Other files
+*.tgz
+package-lock.json
+yarn.lock
